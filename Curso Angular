@@ -1,0 +1,4 @@
+Material de Estudio de Angular version 17
+Requisitos previos: deberas tener conocimientos previos sobre HTML, CSS, JAVASCRIPT Y TYPESCRIPT.
+Requiere tener instalada la versión LTS DE NODE.JS Y NPM y conocimientos basicos de la version bash.
+MVC: (Modelo Vista Controlador) Patron de diseño altamente utilizado en la industria de desarrollo de aplicaciones. su objetivo principal es separar las preocupaciones dentro de una aplicación en tres componentes distintos para separar la modularidad, la mantenibilidad y la escalabilidad de las aplicaciones
